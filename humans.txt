@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Anita Sharma <twitter>
+   Deepesh Sharma
+   depusharma1@gmail.com
+   SA, DevOps
 
 # THANKS
 
