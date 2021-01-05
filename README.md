@@ -12,8 +12,9 @@ Adding GIt Rebase and GIT advance part. We have done so much of work together.
 ## Contribution
 Fork the Repo and raise pull request for review.
 
-## Git COmparison
+## Git Comparison
 Adding Git Comparisons lecture.
+Adding new lectures of Stash.
 
 ## GITHub Content
 Comparision with Repo
