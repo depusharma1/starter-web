@@ -5,13 +5,14 @@
 
    Deepesh Sharma
    depusharma1@gmail.com
-   SA, DevOps
+   Linux, DevOps Engineer
 
 # THANKS
 
-    <name>
+    Deepesh Sharma
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
     jQuery, Modernizr 
+    Docker, JAVA Programming
